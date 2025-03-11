@@ -43,4 +43,4 @@ Click Save to Report Library to store this report for future use.
 Now, I can track cost trends, identify unexpected charges, and optimize my cloud usage efficiently.
 
 🚀 Next Steps
-➡️**[Create AWS Budgets](../Docs/setup-aws-budgets.md)** 
+➡️**[Create AWS Budgets](../docs/setup-aws-budgets.md)** 
