@@ -39,4 +39,4 @@ Download as CSV button (top right).
 I now have a clear view of my AWS spending and usage, which helps me manage my cloud costs efficiently and identify opportunities for optimization.
 
 🚀 Next Steps
-➡️➡️ **[Create Cost Reports](../Docs/create-cost-reports.md)** 
+➡️➡️ **[Create Cost Reports](../docs/create-cost-reports.md)** 
