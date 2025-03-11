@@ -61,4 +61,4 @@ If I have predictable workloads, Reserved Instances can save me up to 75% compar
 By following these steps, I can analyze my AWS costs and apply savings strategies to minimize expenses while maintaining efficiency.
 
 🚀 Next Steps
-➡️ Clean Up Unused Resources
+➡️ ➡️ **[Clean Up Resources.md](../Docs/clean-up-resources.md)**
