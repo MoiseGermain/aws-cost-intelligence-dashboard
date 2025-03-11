@@ -59,4 +59,4 @@ I can now view it under Cost Monitors in the Cost Anomaly Detection dashboard.
 Now, my system will automatically track AWS spending patterns and notify me of unexpected cost spikes.
 
 🚀 Next Steps
-➡️ Optimize AWS Resources for Cost Efficiency
+➡️ ➡️ **[Optimize Resources.md](../Docs/optimize-resources.md)**
