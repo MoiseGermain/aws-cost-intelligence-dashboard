@@ -43,5 +43,4 @@ Click Save to Report Library to store this report for future use.
 Now, I can track cost trends, identify unexpected charges, and optimize my cloud usage efficiently.
 
 🚀 Next Steps
-➡️ Set Up AWS Budgets for Spending Monitoring
-➡️ Configure AWS Anomaly Detection
+➡️**[Create AWS Budgets](../Docs/setup-aws-budgets.md)** 
