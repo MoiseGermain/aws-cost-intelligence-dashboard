@@ -32,5 +32,4 @@ Select Cost Budget → Click Next.
 Now, I have a real-time monitoring system that alerts me when AWS costs exceed the set limits.
 
 🚀 Next Steps
-➡️ Set Up AWS Cost Anomaly Detection
-➡️ Optimize AWS Resource Costs
+➡️ ➡️ **[Setup Aws Cost Anomaly Detection](../Docs/setup-aws-cost-anomaly-detection.md)** 
