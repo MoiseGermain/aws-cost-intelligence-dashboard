@@ -10,7 +10,6 @@ AWS Cost Anomaly Detection helps me **automatically track cost and usage** to id
 - Open Billing and Cost Management
 - In the **left-hand menu**, select **Cost Anomaly Detection**.
 
-📸 ![AWS Cost Anomaly Detection Menu](../screenshots/aws-cost-anomaly-detection-menu.png)
 2️⃣ Get Started with Cost Anomaly Detection
 Click Get Started.
 If prompted, select Skip Tour.
