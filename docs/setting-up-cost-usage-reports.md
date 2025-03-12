@@ -89,5 +89,4 @@ Created an S3 bucket to store reports.
 Uploaded fabricated cost data for the demo.
 
 🚀 Next Steps
-➡️ Configure AWS Glue to Process Cost Data
-➡️ Query Cost Data with Amazon Athena
+➡️  **[Configure AWS Glue to Process Cost Data](../docs/create-glue-data-catalog-table.md)**
