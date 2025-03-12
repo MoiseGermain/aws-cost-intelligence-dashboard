@@ -70,4 +70,4 @@ I have successfully: ✔️ Created and configured Amazon QuickSight.
 ✔️ Configured SPICE for enhanced query performance.
 
 🚀 Next Steps
-➡️ **[Deploy Quicksight ashboards](../docs/deploy-quicksight-dashboards.md)**
+➡️ **[Deploy Quicksight Dashboards](../docs/deploy-quicksight-dashboards.md)**
