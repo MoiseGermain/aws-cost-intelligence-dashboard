@@ -93,5 +93,4 @@ I have successfully: ✔️ Configured AWS Glue Crawler to scan fabricated cost 
 ✔️ Prepared the dataset for querying in Amazon Athena.
 
 🚀 Next Steps
-➡️ Query Cost Data with Amazon Athena
-➡️ Visualizing Cost Data in QuickSight
+➡️  **[Define Schema in Amazon Athena](../docs/define-schema-athena.md)**
