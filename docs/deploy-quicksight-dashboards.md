@@ -63,4 +63,4 @@ I will navigate through each tab to explore different cost breakdowns and usage 
 ✔️ I can now analyze AWS costs and usage visually in QuickSight.
 
 🚀 Next Steps
-➡️ Clean Up Resources
+➡️ **[Cleanup Resources.md](../docs/cleanup-resources.md)**
