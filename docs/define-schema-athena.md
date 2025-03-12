@@ -148,5 +148,5 @@ I have successfully: ✔️ Configured Athena's settings and workgroups.
 ✔️ Prepared the dataset for visualization in QuickSight.
 
 🚀 Next Steps
-➡️ Visualizing Cost Data in QuickSight
+➡️ **[Setup Quicksight](../docs/setup-quicksight.md)**
 
